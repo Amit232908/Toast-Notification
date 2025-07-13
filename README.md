@@ -12,3 +12,6 @@ This is a simple web-based **Toast Notification** project built using HTML, CSS,
 ## 🖥️ Demo
 
 https://toast-notify.netlify.app/
+
+
+![Image](https://github.com/user-attachments/assets/c6f2f92a-5818-432a-8b74-b94e9c1ea876)
